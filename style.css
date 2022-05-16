@@ -1,0 +1,58 @@
+*{
+    font-family: Montserrat;
+}
+header{
+    background-color:#a80e0e;
+    opacity: 80%;
+    
+}
+p.text{
+font-size: 4em;
+position: absolute;
+top: 21vw;
+left: 18vw;
+color: #fff;
+}
+.text p{
+    text-align: center;
+    font-size: 3em;
+    color: #a80e0e;
+    text-decoration: underline;
+}
+
+.sub-text p{
+    text-align: center;
+    font-size: 2em;
+}
+.image img{
+    opacity: 60%;
+}
+
+.btn-group{
+    margin-left: 35%;
+    width: 30%;
+}
+.how h1{
+    text-align: center;
+    font-size: 3em;
+    color: #a80e0e;
+    text-decoration: underline;
+}
+.how p{
+    text-align: center;
+    font-size: 2em;
+}
+.division{
+    padding-left: 40%;
+    position: relative;
+   
+}
+.card{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.card-title {
+    font-weight: bold;
+}
+
