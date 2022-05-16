@@ -1,4 +1,4 @@
-# hungryCaptain
+# Hungry Captain
 This is an online food menu
 service for Hungry Captain restaurants. These days, when you visit a restaurant, you
 often use the QR code to load the PDF of the menu. It has no image and is not easy
